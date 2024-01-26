@@ -1,3 +1,3 @@
 # Github-explore
  Exploring Github with Trailhead modules
- I want to make a Million Buck offer by my Birthday!
+I want to secure a Million-Buck offer job by my Birthday!
